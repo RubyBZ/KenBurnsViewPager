@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KenBurnsViewPager</string>
+    <string name="hello_you">Hello You</string>
+    <string name="seven_wonders">Seven Wonders</string>
+    <string name="of_the_world">of the World</string>
+    <string name="do_you_find_it_helpful">do you find it helpful?</string>
+</resources>
